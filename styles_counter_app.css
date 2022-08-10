@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 2rem;
+    background-color: antiquewhite;    
+    color:coral
+}
+
+button{
+    height: 40px;
+    background-color:chocolate;
+    color:azure; 
+}
+
+#save-btn{
+    background-color:rgb(64, 137, 137);
+}
+
+#reset-btn{
+    background-color:rgb(64, 137, 137);
+}
